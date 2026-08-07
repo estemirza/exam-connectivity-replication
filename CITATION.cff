@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below."
+title: "How Reliable Is the Network During an Online Exam in an Under-Connected School? A Field Measurement and Its Design Implications"
+abstract: >-
+  De-identified network telemetry and analysis/simulation code from a real online
+  mathematics-certification exam at a junior-secondary school in eastern
+  Indonesia (157 exam sessions), used to characterise exam-time connectivity and
+  to evaluate how much fault tolerance the platform's submission design needs.
+type: dataset
+authors:
+  # For double-blind review this is withheld; fill in before public release.
+  - name: "Author (name withheld for peer review)"
+keywords:
+  - online assessment
+  - intermittent connectivity
+  - educational technology
+  - learning for development
+  - offline-first
+  - Indonesia
+license: CC-BY-4.0
+date-released: "2026-08-07"
+# version: "1.0.0"
+# doi: "10.5281/zenodo.XXXXXXX"   # mint on release (e.g., via Zenodo)

@@ -1,0 +1,48 @@
+{
+  "connectivity": {
+    "n_sessions": 157,
+    "n_uplinks": 61,
+    "downtime_fraction": 0.0192,
+    "rtt_ms": {
+      "median": 124.0,
+      "p90": 346.0,
+      "p95": 552.0,
+      "p99": 2818.0
+    },
+    "meanUpMs_est": 720000,
+    "meanDownMs_est": 15000,
+    "downMs_p90": 75250,
+    "bad_uplink_sessions_ge_10pct": 10,
+    "downtime_pct_persession_max": 87.5
+  },
+  "by_network_kind": {
+    "school_wifi": {
+      "n_sessions": 83,
+      "downtime_pct": 2.8,
+      "rtt_median_ms": 100
+    },
+    "cellular": {
+      "n_sessions": 71,
+      "downtime_pct": 1.3,
+      "rtt_median_ms": 151
+    },
+    "other": {
+      "n_sessions": 3,
+      "downtime_pct": 0.5,
+      "rtt_median_ms": 111
+    }
+  },
+  "submit": {
+    "sessions_with_submit": 84,
+    "attempts": 221,
+    "ok": 112,
+    "fail": 109,
+    "sessions_with_any_fail": 3,
+    "extreme_session_share_of_attempts_pct": 45.2,
+    "without_extreme": {
+      "attempts": 121,
+      "fail": 9
+    },
+    "bytes_median": 782
+  }
+}

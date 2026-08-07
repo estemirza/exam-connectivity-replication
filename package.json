@@ -1,0 +1,13 @@
+{
+  "name": "exam-connectivity-replication",
+  "version": "1.0.0",
+  "description": "Field-calibrated discrete-event simulation of online-exam submission under intermittent connectivity. No dependencies; Node.js 18+.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "grace-sweep": "node simulation/run-grace-sweep.js",
+    "experiment": "node simulation/run-experiment.js",
+    "sweep": "node simulation/run-sweep.js",
+    "completion": "node simulation/run-completion.js"
+  }
+}

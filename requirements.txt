@@ -1,0 +1,3 @@
+# Python dependencies for the analysis scripts.
+# reproduce.py uses only the standard library; matplotlib is needed for the figures.
+matplotlib>=3.5

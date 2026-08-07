@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Regenerated simulation outputs (reference copies live in data/)
+results/*
+!results/.gitkeep
+
+# OS
+.DS_Store

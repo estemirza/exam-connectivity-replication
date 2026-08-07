@@ -1,0 +1,13 @@
+=== RQ1: connectivity (n=157 sessions, 61 uplinks) ===
+Overall downtime      : 1.9%
+RTT ms median/p90/p99 : 124.0 / 346.0 / 2818.0
+Median UP run         : 720 s
+Median DOWN run (p90) : 15 s (75 s)
+Sessions >=10% down   : 10 (worst 87.5%)
+  school_wifi: 83 sessions, downtime 2.8%, RTT median 100 ms
+  cellular   : 71 sessions, downtime 1.3%, RTT median 151 ms
+=== RQ2: submissions ===
+Sessions submitting   : 84 ; attempts 221 (ok 112, fail 109)
+Sessions w/ any fail  : 3
+One extreme session   : 45.2% of all attempts; without it 121 attempts, 9 fails
+Median real submit    : 782 bytes
