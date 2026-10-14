@@ -1,12 +1,10 @@
 # Exam-day network connectivity in an under-connected school — data & code
 
-> **Anonymized replication package for double-blind peer review.** Author,
-> institution, platform name, and repository host are withheld. Author details, a
-> public URL, and a DOI will be added after acceptance.
+> Author: Moch Mirza Ilham Tontowi (ORCID [0009-0001-1013-9415](https://orcid.org/0009-0001-1013-9415)),
+> Yayasan Al-Khawarizmi, Sorong, and Universitas Ciputra, Indonesia.
+> Preprint: arXiv link to be added.
 
-Replication package for the paper *“How Reliable Is the Network During an Online
-Exam in an Under-Connected School? A Field Measurement and Its Design
-Implications.”*
+Replication package for the paper *“Measured, Not Assumed: A Field Study of Exam-Time Connectivity and Fault Tolerance in an Under-Connected Indonesian School.”*
 
 It contains (a) a **de-identified dataset** of network telemetry logged during a
 real online mathematics-certification exam at a junior-secondary school in eastern

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or code, please cite the paper below."
-title: "How Reliable Is the Network During an Online Exam in an Under-Connected School? A Field Measurement and Its Design Implications"
+title: "Measured, Not Assumed: A Field Study of Exam-Time Connectivity and Fault Tolerance in an Under-Connected Indonesian School"
 abstract: >-
   De-identified network telemetry and analysis/simulation code from a real online
   mathematics-certification exam at a junior-secondary school in eastern
@@ -8,8 +8,10 @@ abstract: >-
   to evaluate how much fault tolerance the platform's submission design needs.
 type: dataset
 authors:
-  # For double-blind review this is withheld; fill in before public release.
-  - name: "Author (name withheld for peer review)"
+  - family-names: "Tontowi"
+    given-names: "Moch Mirza Ilham"
+    orcid: "https://orcid.org/0009-0001-1013-9415"
+    affiliation: "Yayasan Al-Khawarizmi; Universitas Ciputra"
 keywords:
   - online assessment
   - intermittent connectivity
